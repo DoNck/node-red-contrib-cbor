@@ -7,6 +7,10 @@
   },
   "author": "DoNck",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DoNck/node-red-contrib-cbor.git"
+  },
   "node-red": {
     "nodes": {
       "cbor": "node-red-contrib-cbor.js"
