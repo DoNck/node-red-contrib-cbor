@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "cbor": "github:hildjj/node-cbor"
-  }
+  },
+  "keywords": [ "node-red", "cbor", "json" ]
 }
